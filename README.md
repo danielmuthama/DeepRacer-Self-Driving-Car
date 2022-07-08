@@ -7,3 +7,5 @@
       git lfs track "*{.largefile}"
       git add .
       .....
+<video src="model.mp4" controls="controls" style="max-width: 730px;">
+</video>
