@@ -11,6 +11,18 @@
 <video src="model.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
+#### Before you start
+
+In this tutorial, you will train a reinforcement learning (RL) model and see a simulation of how that model performs on a track. The AWS DeepRacer Student League is where you compete for the fastest lap times with you friends. You have the option to opt out of submitting your trained model to the Student League.
+#### How is an RL model trained?
+
+In AWS DeepRacer, an agent (car) learns from an environment (track) by interacting with it. During training, the model iterates and updates different parameters based on rewards received.
+Model training is an iterative process
+
+Training a model is like creating a prototype. Each model iteration is a step towards finding the optimal parameters. When training has finished, clone your model to continue improving it.
+#### Improving your model
+
+After training an initial model, you can use the current state of the model's parameters as the starting point for the next model by choosing clone model. Submit to the leaderboard to evaluate your model's performance. Look for the race time and the number of times your car went off track.
 #### Simulation video stream
 
 Your are watching your model train in a live simulation of the racetrack you selected.
