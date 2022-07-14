@@ -25,8 +25,6 @@ Training a model is like creating a prototype. Each model iteration is a step to
 After training an initial model, you can use the current state of the model's parameters as the starting point for the next model by choosing clone model. Submit to the leaderboard to evaluate your model's performance. Look for the race time and the number of times your car went off track.
 #### Simulation video stream
 
-Your are watching your model train in a live simulation of the racetrack you selected.
-
 Just like babies learn to walk by stumbling around, your model learns by trial and error. In reinforcement learning, this is called exploration and exploitation. Your AWS DeepRacer car explores the racetrack gathering information about its environment and then exploits that information to maximize it’s reward.
 
 For the first iterations, the model might hit walls or go off track, but slowly the model learns what actions give it the highest reward and it starts to improve..
