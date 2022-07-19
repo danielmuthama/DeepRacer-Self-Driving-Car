@@ -9,9 +9,8 @@
       git lfs track "*{.largefile}"
       git add .
       .....
-<video src="model.mp4" controls="controls" style="max-width: 730px;">
-</video>
 
+[<img src="https://i.ytimg.com/vi/Hc79sDi3f0U/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=ALcvOg81huE "AWS DeepRacer: 55")
 #### Before you start
 
 In this tutorial, you will train a reinforcement learning (RL) model and see a simulation of how that model performs on a track. The AWS DeepRacer Student League is where you compete for the fastest lap times with you friends. You have the option to opt out of submitting your trained model to the Student League.
